@@ -8,7 +8,6 @@ Mondejar Guerra, Victor M.
 23 Oct 2017
 """
 
-import numpy as np
 from scipy.signal import medfilt
 import scipy.stats
 import pywt
